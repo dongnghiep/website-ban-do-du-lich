@@ -1,3 +1,3 @@
 # website-ban-do-du-lich
-sales website <br/>
+Sales website <br/>
 Technology: Spring Boot, Spring Security, Rest API, Thymeleaf, AngularJS, SQL Server
